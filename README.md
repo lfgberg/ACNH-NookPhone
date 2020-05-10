@@ -2,7 +2,7 @@
 
 This is a rainmeter launcher skin modeled after the NookPhone from Animal Crossing New Horizons.
 
-![SkinPreview](PREVIEW LINK HERE)
+![SkinPreview](https://github.com/lfgberg/ACNH-NookPhone/blob/master/Previews/Preview.png)
 
 ### Prerequisites
 
