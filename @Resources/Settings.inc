@@ -9,10 +9,12 @@
 ;Replace AppImage with the file path of an icon you'd like to display
 ;To make a new icon please edit either placeholder-icon.png or placeholder-icon.pdn in the images folder so that everything alligns properly
 ;There are some example icons in the Images folder, feel free to use them
+;If you make your own icon, either provide it's path, OR put it in the images folder and reference it with #@#Images\YourIconName.png
+;Replace AppPath with the file path of your program
+;Replace AppPath with the file path of your program
+
 AppImage=#@#Images\placeholder-icon.png
-;Replace AppPath with the file path of your program
 AppName=NookPhone
-;Replace AppPath with the file path of your program
 AppPath=C:\
 
 App2Image=#@#Images\placeholder-icon.png
