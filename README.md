@@ -22,10 +22,12 @@ If you can't find the configuration file for some reason it's in the @Resources 
 ;Replace AppImage with the file path of an icon you'd like to display
 ;To make a new icon please edit either placeholder-icon.png or placeholder-icon.pdn in the images folder so that everything alligns properly
 ;There are some example icons in the Images folder, feel free to use them
+;If you make your own icon, either provide it's path, OR put it in the images folder and reference it with #@#Images\YourIconName.png
+;Replace AppPath with the file path of your program
+;Replace AppPath with the file path of your program
+
 AppImage=#@#Images\brave.png
-;Replace AppPath with the file path of your program
 AppName=Brave Browser
-;Replace AppPath with the file path of your program
 AppPath=C:\Program Files (x86)\BraveSoftware\Brave-Browser\Application\brave.exe
 
 App2Image=#@#Images\discord.png
