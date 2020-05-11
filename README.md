@@ -14,7 +14,7 @@ You will need [Rainmeter](https://www.rainmeter.net/) in order to use this skin
 2. Read the welcome skin and click on `configuration file`
 3. Read the directions in the configuration file and edit the variables as directed
 
-If you can't find the configuration file for some reason it's in the @Resources folder called "Settings.inc"
+If you can't find the configuration file for some reason it's in the @Resources folder called `Settings.inc`
 
 ### Example Settings.inc file
 ```
