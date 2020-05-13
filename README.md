@@ -4,6 +4,10 @@ This is a rainmeter launcher skin modeled after the NookPhone from Animal Crossi
 
 ![SkinPreview](https://github.com/lfgberg/ACNH-NookPhone/blob/master/Previews/Preview.png)
 
+###Contributors
+Author - [Lfgberg](https://github.com/lfgberg)
+Contributed Icons - [plomdawg](https://github.com/plomdawg)
+
 ### Prerequisites
 
 You will need [Rainmeter](https://www.rainmeter.net/) in order to use this skin
