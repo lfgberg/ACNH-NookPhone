@@ -1,18 +1,26 @@
-;Animal Crossing New Horizons NookPhone Launcher
-;By @Lfgberg#6323
+[Variables]
+;_   _             _    _____  _                       _____      _   _   _
+;| \ | |           | |  |  __ \| |                     / ____|    | | | | (_)
+;|  \| | ___   ___ | | _| |__) | |__   ___  _ __   ___| (___   ___| |_| |_ _ _ __   __ _ ___
+;| . ` |/ _ \ / _ \| |/ /  ___/| '_ \ / _ \| '_ \ / _ \\___ \ / _ \ __| __| | '_ \ / _` / __|
+;| |\  | (_) | (_) |   <| |    | | | | (_) | | | |  __/____) |  __/ |_| |_| | | | | (_| \__ \
+;|_| \_|\___/ \___/|_|\_\_|    |_| |_|\___/|_| |_|\___|_____/ \___|\__|\__|_|_| |_|\__, |___/
+;                                                                                  __/ |
+;                                                                                 |___/
+
+;Set ToggleOutline to either 0/1, default is 1 which enables an outline when you hover over an app, 0 disables this feature
+ToggleOutline=1
 
 ;In order to customize the programs that are launched by the nookphone, please edit the following variables
 ;Apps are numbered from left to right, there are 5 rows of 3 apps for a total of 15 possible programs
 ;This means that App 8 is displayed on the third row and second column, App 13 is on the fifth row and first column and so on and so forth
 
-[Variables]
 ;Replace AppImage with the file path of an icon you'd like to display
 ;To make a new icon please edit either placeholder-icon.png or placeholder-icon.pdn in the images folder so that everything alligns properly
 ;There are some example icons in the Images folder, feel free to use them
 ;If you make your own icon, either provide it's path, OR put it in the images folder and reference it with #@#Images\YourIconName.png
 ;Replace AppPath with the file path of your program
 ;Replace AppPath with the file path of your program
-
 AppImage=#@#Images\placeholder-icon.png
 AppName=NookPhone
 AppPath=C:\
