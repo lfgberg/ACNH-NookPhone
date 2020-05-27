@@ -2,7 +2,7 @@
 
 This is a rainmeter launcher skin modeled after the NookPhone from Animal Crossing New Horizons.
 
-![SkinPreview](https://github.com/lfgberg/ACNH-NookPhone/blob/master/Previews/Preview.png)
+![SkinPreview](https://github.com/lfgberg/ACNH-NookPhone/blob/master/Previews/v1.4.0.png)
 
 ### Contributors
 
@@ -24,7 +24,26 @@ If you can't find the configuration file for some reason it's in the @Resources 
 
 ### Example Settings.inc file
 ```ini
-[Variables]
+;_____  _                       _____      _   _   _
+;|  __ \| |                     / ____|    | | | | (_)
+;| |__) | | __ _ _   _  ___ _ _| (___   ___| |_| |_ _ _ __   __ _ ___
+;|  ___/| |/ _` | | | |/ _ \ '__\___ \ / _ \ __| __| | '_ \ / _` / __|
+;| |    | | (_| | |_| |  __/ |  ____) |  __/ |_| |_| | | | | (_| \__ \
+;|_|    |_|\__,_|\__, |\___|_| |_____/ \___|\__|\__|_|_| |_|\__, |___/
+;                __/ |                                      __/ |
+;               |___/                                      |___/
+
+;Please specify your music player of choice options are:
+;AIMP - "AIMP"
+;foobar2000/J. River Media Center/Media Jukebox/MusicBee - "CAD"
+;iTunes - "iTunes"
+;MediaMonkey - "MediaMonkey"
+;Winamp - "Winamp"
+;WMP - "WMP"
+;Last.fm/TTPlayer/OpenPandora/Zune - "WLM"
+
+MusicPlayer="iTunes"
+
 ;_   _             _    _____  _                       _____      _   _   _
 ;| \ | |           | |  |  __ \| |                     / ____|    | | | | (_)
 ;|  \| | ___   ___ | | _| |__) | |__   ___  _ __   ___| (___   ___| |_| |_ _ _ __   __ _ ___
@@ -62,7 +81,7 @@ App3Path=C:\Program Files (x86)\Steam\steam.exe
 
 App4Image=#@#Images\itunes.png
 App4Name=iTunes
-App4Path=C:\Program Files\iTunes\iTunes.exe
+App4Path=C:\Users\lfgab\AppData\Roaming\iTunesRPC\iTunesRichPresence-Rewrite.exe
 
 App5Image=#@#Images\atom.png
 App5Name=Atom
@@ -78,7 +97,7 @@ App7Path=C:\Users\lfgab\AppData\Roaming\Twitch\Bin\Twitch.exe
 
 App8Image=#@#Images\minecraft.png
 App8Name=Minecraft
-App8Path=C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe
+App8Path=C:\Users\lfgab\Twitch\Minecraft\Install\minecraft.exe
 
 App9Image=#@#Images\mtga.png
 App9Name=MTG Arena
@@ -88,13 +107,13 @@ App10Image=#@#Images\paintdotnet.png
 App10Name=Paint.net
 App10Path=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\paint.net.lnk
 
-App11Image=#@#Images\placeholder-icon.png
-App11Name=NookPhone
-App11Path=C:\
+App11Image=#@#Images\epic.png
+App11Name=Epic Launcher
+App11Path=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Epic Games Launcher.lnk
 
-App12Image=#@#Images\placeholder-icon.png
-App12Name=NookPhone
-App12Path=C:\
+App12Image=#@#Images\explorer.png
+App12Name=File Explorer
+App12Path=C:\Windows\explorer.exe
 
 App13Image=#@#Images\placeholder-icon.png
 App13Name=NookPhone
