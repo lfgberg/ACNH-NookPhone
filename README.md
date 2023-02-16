@@ -9,6 +9,8 @@ This is a rainmeter launcher skin modeled after the NookPhone from Animal Crossi
 ### Contributors
 
 Author - [Lfgberg](https://github.com/lfgberg)
+<br>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lfgberg)
 
 Contributed Icons - [plomdawg](https://github.com/plomdawg)
 
